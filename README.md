@@ -41,3 +41,8 @@ Hi, I'm Pranav Avva. I'm a Princeton '24 computer science major.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavavva&show_icons=true&theme=dark" />
 </a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FTCLib&repo=FTCLib" />
+</a>
+
