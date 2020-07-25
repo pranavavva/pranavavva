@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Pranav! 👋
 
 <!--
 **pranavavva/pranavavva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm Pranav Avva. I'm a Princeton '24 computer science major.
+
+- 🔭 I'm currently working on [TigerPath](https://tigerpath.io), a 4-year course planning tool for Princeton University undergraduate students
+- 🌱 I'm currently learning Java, Python, NodeJS, TypeScript, & React
+- 💬 Ask me about anything [here](https://github.com/pranavavva/pranavavva/issues)
+- 📫 How to reach me: [email](mailto:pranav.avva@gmail.com)
+- 😄 Pronouns: he/him/his
+
+#### Languages, Tools, and Frameworks
+
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
+<i>NOTE: Top Languages doesn't indicate my proficieny, rather, it's a GitHub metric of my most-used languages.</i>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavavva&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavavva&show_icons=true&theme=dark" />
+</a>
