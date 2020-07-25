@@ -26,7 +26,7 @@ Hi, I'm Pranav Avva. I'm a Princeton '24 computer science major.
 #### Languages, Tools, and Frameworks
 
 
-<div style="display: block;">
+<div style="overflow: hidden; display: flex; justify-content:space-around;">
 <div style="display: inline-block;"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></div>
 <div style="display: inline-block;"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></div>
 <div style="display: inline-block;"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></div>
