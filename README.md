@@ -45,5 +45,5 @@ Hi, I'm Pranav Avva. I'm a Princeton '24 computer science major.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FTCLib&repo=FTCLib&theme=radical" />
 </a>
 <a href="https://github.com/pranavavva/java-tac-toe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TigerHubApp&repo=tigerhub&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TigerPathApp&repo=tigerpath&theme=radical" />
 </a>
