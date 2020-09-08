@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Hi, I'm Pranav Avva. I'm a Princeton '24 computer science major.
 
 - 🔭 I'm currently working on [TigerPath](https://tigerpath.io), a 4-year course planning tool for Princeton University undergraduate students
-- 💼 I'm currently working as a Software Engineer for [The Daily Princetonian](https://dailyprincetonian.com), a student-run daily newspaper serving the Princeton University and local community
+- 💼 I'm currently working as a Software Engineer for [The Daily Princetonian](https://dailyprincetonian.com), a student-run independent daily newspaper serving the Princeton University and local community
 - 🌱 I'm currently learning Java, Python, NodeJS, TypeScript, & React
 - 💬 Ask me about anything [here](https://github.com/pranavavva/pranavavva/issues)
 - 📫 How to reach me: [email](mailto:pranav.avva@gmail.com)
