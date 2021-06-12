@@ -40,7 +40,7 @@ Hi, I'm Pranav Avva. I'm a Princeton '24 computer science major.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavavva&theme=radical&hide=Dockerfile,Ruby" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavavva&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavavva&show_icons=true&theme=radical&count_private=true" />
 </a>
 <a href="https://github.com/pranavavva/java-tac-toe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TigerPathApp&repo=tigerpath&theme=radical" />
