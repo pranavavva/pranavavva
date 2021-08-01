@@ -37,7 +37,7 @@ Hi, I'm Pranav Avva. I'm a Princeton '24 computer science major.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavavva&theme=radical&hide=Dockerfile,Ruby" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavavva&theme=radical&hide=Jupyter%20Notebook" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavavva&show_icons=true&theme=radical&count_private=true" />
