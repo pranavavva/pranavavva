@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 Hi, I'm Pranav Avva. I'm a Princeton '24 computer science major.
 
-- 🔭 I'm currently working on [TigerPath](https://tigerpath.io), a 4-year course planning tool for Princeton University undergraduate students
-- 💼 I'm currently working as a Summer Intern at UNICEF. I'm also a Software Engineer for [The Daily Princetonian](https://dailyprincetonian.com), a student-run independent daily newspaper serving the Princeton University and local community
+- 🔭 Right now, I am the Project Manager at [BoreDM](https://github.com/boredmlogs). We are developing a modern, cloud-based solution to uploading, viewing, and sharing geotechnical boring data.
+- 💼 I'm currently working as a Machine Learning Research Intern for The Andlinger Center for Energy and the Environment (ACEE). I'm also the Chief Technology Officer at [The Daily Princetonian](https://dailyprincetonian.com), a student-run independent daily newspaper serving the Princeton University and local community
 - 🌱 I'm currently learning about Data Science and Machine Learning in Python
 - 💬 Ask me about anything [here](https://github.com/pranavavva/pranavavva/issues)
 - 📫 How to reach me: [email](mailto:pranav.avva@gmail.com)
