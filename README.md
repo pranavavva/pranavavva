@@ -30,3 +30,4 @@ part-time therapist for misbehaving PostgreSQL migrations.
 #### 📫 Reach me
 - Email: [pranav.avva@gmail.com](mailto:pranav.avva@gmail.com)
 - LinkedIn: [linkedin.com/in/pranavavva](https://linkedin.com/in/pranavavva)
+- My page: [https://avva.dev](avva.dev)
